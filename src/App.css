@@ -1,0 +1,20 @@
+/* Agrega o ajusta estos estilos según tus necesidades */
+button {
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+
+button.is-primary {
+  background-color: #7e063e;
+  color: rgb(250, 9, 9);
+}
+
+button.is-danger {
+  background-color: #5c38be;
+  color: white;
+}
+
+button.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
